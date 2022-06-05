@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582080008358",
+    "project_id": "klaras-koperasi",
+    "storage_bucket": "klaras-koperasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582080008358:android:1db4a874b415999fcd6467",
+        "android_client_info": {
+          "package_name": "com.octastudio.koperasi_klaras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582080008358-qrg7n0tbv0hfgjjb7c89ppfihj0jls7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvkyeya-JrXTR9U5B78UXwsPeYOuaHyTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582080008358-qrg7n0tbv0hfgjjb7c89ppfihj0jls7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
